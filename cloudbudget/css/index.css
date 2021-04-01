@@ -1,0 +1,150 @@
+
+header{
+    background:linear-gradient(rgba(247, 0, 0, 0.6),rgba(247, 0, 0, 0.6)), url(../img/Rectangle\ 3.png) no-repeat center center/cover; width: 100% !important; height: 1000px !important;
+}
+#mur{
+    background: url(../img/Bg.png) no-repeat center center/cover;
+    width: 350px;
+    height: 250px;
+    border-radius: 8px;
+} 
+
+#murad{
+    background: url(../img/Bg\ \(1\).png) no-repeat center center/cover;
+    width: 350px;
+    height: 250px;
+    border-radius: 8px;
+} 
+#muradd{
+    background: url(../img/Bg\ \(2\).png) no-repeat center center/cover;
+    width: 350px;
+    height: 250px;
+    border-radius: 8px;
+} 
+.absolute{
+    position: absolute;
+    top: 40px;
+    left: 105px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px){
+    .cloud{
+        text-align: center;
+        font-size: 5em;
+    }
+    .cloudd{
+        margin-bottom: 50%;
+    }
+    .flag{
+        margin-top: 8%;
+    }
+    .flagg{
+        text-align: center
+    }
+    .dropdown{
+        display: none;
+    }
+    .drap{
+        display: none;
+    }
+    #mur{
+        margin-top: 10%;
+        margin-left: 15%;
+    }
+    #murad{
+        margin-top: 15%;
+        margin-left: 15%;
+    }
+    #muradd{
+        margin-top: 15%;
+        margin-left: 15%;
+    }
+    .ite{
+        margin-left: 20%;
+        margin-top: 10%;
+    }
+    .itea{
+        margin-top: 18%;
+    }
+    .item9 h1{
+        text-align: center;
+   }
+   .item9 p{
+       text-align: center;
+   }
+   .itan{
+       margin-left: 35%;
+   }
+}
+
+
+@media(max-width: 375px){
+    .cloud{
+        text-align: center;
+        font-size: 3em;
+    }
+    .cloudd{
+        margin-bottom: 25%;
+    }
+    .flag{
+        margin-top: 3%;
+        padding-top: 3%;
+    }
+    .flagg{
+        text-align: center;
+    }
+    .dropdown{
+        display: none;
+    }
+    .drap{
+        display: none;
+    }
+    #mur{
+        margin-top: 10%;
+        margin-left: -1.5%;
+    }
+    #murad{
+        margin-top: 25%;
+    }
+    #muradd{
+        margin-top: 25%;
+    }
+    .itemmmmm{
+        display: none;
+    }
+    .ite{
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    .item9 h1{
+         text-align: center;
+    }
+    .item9 p{
+        text-align: center;
+    }
+    .item9 img{
+        display: none;
+    }
+    .itan{
+        margin-left: 20%;
+    }
+}
+
+
+
+
+
+
+
